@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Uttam Saini
 
-<!--
-**Uttam-Saini/Uttam-Saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI & Data Science Developer passionate about building intelligent systems using data.
 
-Here are some ideas to get you started:
+🧠 About Me
+- 🎓 MCA Graduate | Python Enthusiast
+- 📊 I love working with data – from cleaning to model deployment
+- 🤖 Skilled in: `Python`, `Pandas`, `NumPy`, `scikit-learn`, `TensorFlow`, `Matplotlib`, `Seaborn`
+- 🌱 Currently learning: `Deep Learning`, `LLMs`, `NLP`, `Prompt Engineering`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects Coming Soon
+- 🔍 Sentiment Analysis using BERT
+- 🏠 House Price Prediction (ML)
+- 🧠 Image Classifier using CNN
+- 🗣️ Chatbot using Transformers
+
+📫 Connect with Me
+- ✉️ Email: sainiuttam1999@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/uttam-saini-972b5224b
+
+
+
+-> 📍 “In God we trust, all others must bring data.” – W. Edwards Deming*
+
