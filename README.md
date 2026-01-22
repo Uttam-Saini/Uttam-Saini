@@ -1,24 +1,53 @@
-# 👋 Hi, I'm Uttam Saini
+👋 Hi, I'm Uttam Saini
 
-I'm an aspiring AI & Data Science Developer passionate about building intelligent systems using data.
+I'm a Full Stack Web Developer with a strong background in Computer Applications (BCA + MCA). I enjoy building real-world web applications that are fast, scalable, and user-friendly.
 
-🧠 About Me
-- 🎓 MCA Graduate | Python Enthusiast
-- 📊 I love working with data – from cleaning to model deployment
-- 🤖 Skilled in: `Python`, `Pandas`, `NumPy`, `scikit-learn`, `TensorFlow`, `Matplotlib`, `Seaborn`
-- 🌱 Currently learning: `Deep Learning`, `LLMs`, `NLP`, `Prompt Engineering`
+I mainly work with modern web technologies and love creating complete products — from frontend UI to backend logic and database.
 
-🚀 Projects Coming Soon
-- 🔍 Sentiment Analysis using BERT
-- 🏠 House Price Prediction (ML)
-- 🧠 Image Classifier using CNN
-- 🗣️ Chatbot using Transformers
+---
 
-📫 Connect with Me
-- ✉️ Email: sainiuttam1999@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/uttam-saini-972b5224b
+## 🚀 Tech Stack
 
+- JavaScript  
+- React.js  
+- Next.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+- Supabase  
+- Tailwind CSS  
+- HTML & CSS  
+- Git & GitHub  
 
+---
 
--> 📍 “In God we trust, all others must bring data.” – W. Edwards Deming*
+## 🛠️ Projects
 
+### 🔹 CBSE.News — Educational News Platform  
+A fast and SEO-friendly educational news website for students, parents, and teachers.  
+Built with Next.js, Tailwind CSS, and Supabase.
+
+### 🔹 MCQ.Tube — Online MCQ Practice Platform  
+An online platform for students to practice subject-wise MCQs with authentication and dynamic content.  
+Built with Next.js, Tailwind CSS, and Supabase.
+
+---
+
+## 📌 What I Do
+
+- Build full-stack web applications  
+- Design clean and responsive user interfaces  
+- Develop backend APIs and authentication systems  
+- Work with databases and cloud services  
+- Write clean, maintainable code  
+
+---
+
+## 📫 Connect with Me
+
+- Email: sainuuttam1999@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/uttam-saini-972b5224b  
+
+---
+
+> "First, solve the problem. Then, write the code." – John Johnson
