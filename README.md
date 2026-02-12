@@ -45,7 +45,7 @@ Built with Next.js, Tailwind CSS, and Supabase.
 
 ## 📫 Connect with Me
 
-- Email: sainuuttam1999@gmail.com  
+- Email: sainiuttam1999@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/uttam-saini-972b5224b  
 
 ---
